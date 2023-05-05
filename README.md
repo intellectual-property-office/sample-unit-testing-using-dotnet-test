@@ -24,6 +24,9 @@ N/A
 # Build and Test
 Commands to build locally
 
+## Restore Dependencies
+dotnet restore
+
 ## Build
 dotnet build 
 

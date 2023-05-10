@@ -22,12 +22,12 @@ N/A
 N/A
 
 # Build and Test
-Commands to build locally
+Commands to build and test project locally
 
 ## Build
 dotnet build 
 
-## Test
+## Test - Run Unit Tests
 dotnet test
 
 # Contribute

@@ -23,6 +23,7 @@ N/A
 
 # Build and Test
 Commands to build and test project locally
+The 'dotnet' command is from the dotnet sdk above, or alternatively the .net runtime (not listed above)
 
 ## Restore Dependencies
 dotnet restore

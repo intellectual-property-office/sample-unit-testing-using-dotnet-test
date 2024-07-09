@@ -12,7 +12,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 
 2.	Software dependencies
 
-- dotnet 7 sdk https://dotnet.microsoft.com/en-us/download/dotnet/7.0 (cross-platform)
+- dotnet 8 sdk https://dotnet.microsoft.com/en-us/download/dotnet/8.0 (cross-platform)
 - The project uses xUnit as the test library
 
 3.	Latest releases

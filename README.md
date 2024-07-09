@@ -1,7 +1,7 @@
 # Introduction 
 Sample app used for onboarding by DevOps Enablement team leads
 
-A sample C# .net core (dotnet 7) project with unit tests
+A sample C# .net core (dotnet 8) project with unit tests
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
